@@ -63,7 +63,8 @@ complete_project/
 ├── data/
 │     └── time_series_dataset.csv
 ├── notebooks/
-│     └── TimeSeries_StateSpace_Project.ipynb
+│     └── TimeSeries_StateSpace_Project_upload.ipynb
+
 ├── src/
 │     ├── kalman_filter.py
 │     ├── state_space_model.py
