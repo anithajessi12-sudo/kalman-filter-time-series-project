@@ -130,6 +130,17 @@ python src/main.py
 All plots + final PDF located in:
 ```
 results/
+## 🖼️ Sample Forecast Visuals
+
+### 📌 Combined Forecast
+![Combined Forecast](./results/combined_forecast.png)
+
+### 📌 SARIMA Forecast
+![SARIMA Forecast](./results/sarima_forecast.png)
+
+### 📌 UC Forecast
+![UC Forecast](./results/uc_forecast.png)
+
 ```
 
 ---
